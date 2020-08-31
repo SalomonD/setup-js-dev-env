@@ -1,0 +1,61 @@
+Sharing work in progress
+	- localtunnel, npm package, tap lt --port port_number
+	- ngrok, search for more details
+
+	- now: quickly deploy nodejs to cloud
+		npm package, tap now
+	- surge: quickly host static fles to public URL
+			npm package, intsall it globally and just tap surge
+
+Module format:
+	- Immediately Invoked Function Expressions (IIFE)
+	- Aysnchornous Module Definition (AMD)
+	- Common JS (CJS)
+	- Universal Module Definition (UMD)
+	- ES6 Modules
+
+
+BUndlers
+ - Browserrify
+ - Webpack
+ - Rollup
+ - JSPM
+
+Linter
+ - JSLint
+ - ESlint
+
+Testing frameword
+ - Mocha
+ - Jasmine
+ - Tape
+ - QUnit
+ - AVA
+ - Jest
+
+Assertion library
+ - Chai
+ - Should.js
+ - expect
+
+Helper library
+ - JSDOM
+ - Cheerio
+
+Where to run test
+ - Browser
+	* Karma, Testem
+
+ - Headless Browser
+	* PhantomJS
+
+ - In-memory DOM
+  * JSDOM
+
+CI server
+ - Travis CI
+ - Appveyor
+ - Jenkins
+ - Circle CI
+ - semaphore
+ - Snap CI
